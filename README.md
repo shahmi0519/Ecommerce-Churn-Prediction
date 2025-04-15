@@ -57,9 +57,9 @@ This project focuses on predicting customer churn in an e-commerce platform usin
 ## ⚙️ Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/shahmi0519/Ecommerce-Churn-Prediction.git
-```
+   ```bash
+   git clone https://github.com/shahmi0519/Ecommerce-Churn-Prediction.git
+   ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
