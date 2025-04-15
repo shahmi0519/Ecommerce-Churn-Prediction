@@ -50,7 +50,7 @@ This project focuses on predicting customer churn in an e-commerce platform usin
 
 📘 A full research paper detailing methodology, implementation, and results is included in the `paper/` folder:
 
-- [`ecommerce_churn_research_paper.pdf`](paper/E-commerce_Customers_Churn_Prediction.pdf)
+- [`ecommerce_churn_research_paper.pdf`]([paper/E-commerce_Customers_Churn_Prediction.pdf](https://github.com/shahmi0519/Ecommerce-Churn-Prediction/blob/main/paper/E-commerce%20Customers%20Churn%20Prediction.pdf))
 
 ---
 
