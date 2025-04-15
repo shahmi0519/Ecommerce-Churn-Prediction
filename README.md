@@ -31,7 +31,6 @@ This project focuses on predicting customer churn in an e-commerce platform usin
 | Logistic Regression | Baseline linear classifier          |
 | Random Forest       | Ensemble tree-based model           |
 | Gradient Boosting   | Boosted ensemble model              |
-| SVM (commented)     | Optional for future testing         |
 
 ---
 
